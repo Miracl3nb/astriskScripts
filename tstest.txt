@@ -1,0 +1,14 @@
+-rw-rw---- 1 asterisk asterisk  3.1M Jun 14  2023 REC-00598219201010-1686755692.119412.wav
+-rw-rw---- 1 asterisk asterisk  3.9M Jun 14  2023 REC-00598219201010-1686755932.119445.wav
+-rw-rw---- 1 asterisk asterisk  5.8M Feb 15  2023 REC-0059824071111-1676487408.396144.wav
+-rw-rw---- 1 asterisk asterisk  1.8M Apr 28  2023 REC-0059824071111-1682707132.48034.wav
+-rw-rw---- 1 asterisk asterisk  5.3M Apr 10  2023 REC-0059824101616-1681149397.14467.wav
+-rw-rw---- 1 asterisk asterisk  1.1M Aug  7  2023 REC-0059825226011-1691430978.384867.wav
+-rw-rw---- 1 asterisk asterisk   86K Mar  3  2023 REC-0059825250158-1677854537.475803.wav
+-rw-rw---- 1 asterisk asterisk 1016K Mar  3  2023 REC-0059825250158-1677858691.476265.wav
+-rw-rw---- 1 asterisk asterisk  4.9M Mar  3  2023 REC-0059825250158-1677862160.476784.wav
+-rw-rw---- 1 asterisk asterisk  4.7M Mar  6  2023 REC-0059825250158-1678127122.490281.wav
+-rw-rw---- 1 asterisk asterisk  109K Apr  5  2023 REC-0059825250158-1680698129.7877.wav
+-rw-rw---- 1 asterisk asterisk  4.3M May  5  2023 REC-0059825250158-1683308761.57001.wav
+-rw-rw---- 1 asterisk asterisk  9.6M Jun 16  2023 REC-0059825250158-1686939983.132274.wav
+-rw-rw---- 1 asterisk asterisk  749K Jun 16  2023 REC-0059825250158-1686940914.132336.wav

@@ -1,0 +1,30 @@
+objetivos:
+
+automatizar el eliminado de llamadas del asterisk
+
+
+analizar el contenido de la carpeta root/var/spool/asterisk/Grabaciones
+
+pasarlo a un txt
+
+eliminar los archivos de llamada segun nuestro deseo
+
+
+filtros:
+tienen que ser archivos wav
+tienen que tener el año que decidamos en el tiempo de creado
+
+
+to do:
+
+abrir el archivo de texto
+
+
+analizar las lineas
+
+"-rw-rw---- 1 asterisk asterisk  3.1M Jun 14  2023 REC-00598219201010-1686755692.119412.wav"
+
+los archivos de llamada el nombre inicia con "REC-" y tiene formato .wav
+
+
+dependiendo el año o fecha de creacion tambien figurativo en la linea agregar a el nombre a la lista de eliminacion
