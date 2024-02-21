@@ -28,3 +28,13 @@ los archivos de llamada el nombre inicia con "REC-" y tiene formato .wav
 
 
 dependiendo el año o fecha de creacion tambien figurativo en la linea agregar a el nombre a la lista de eliminacion
+
+
+AGREGAR
+
+UN INPUT EN EL CUAL ELEGIR AÑO DEL GREP 
+
+
+UNA SOLICITUD DE CONFIRMACION DE ELIMNACION DE LA CANTIDAD DE ARCHIVOS A ELIMINAR 
+
+UNA RESPUESTA FINAL CON LA CANTIDAD DE ARCHIVOS ELINADOS
