@@ -1,4 +1,4 @@
-from funs.py import *
+from funs2.py import *
 
 
 anio = input('Indique el anio a borrar: ')
