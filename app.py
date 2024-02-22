@@ -1,7 +1,7 @@
 from funs.py import *
 
 
-anio = input('Indique el año a borrar: ')
+anio = input('Indique el anio a borrar: ')
 
 command(anio)
 listdel()
